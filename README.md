@@ -4,4 +4,4 @@
 
 Flutter app to browse video and images from your favourite Subreddits.
 
-Android apk's are in the release folder
+Android apk's are in the [release folder](release)
