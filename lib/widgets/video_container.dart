@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 
-// should i stash the video player widget in the singleton?
+// should i reuse a VideoPlayerController from a service class
 
 class VideoContainer extends StatefulWidget {
   final String url;
